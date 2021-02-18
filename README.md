@@ -9,14 +9,14 @@
 ---
 
 <a href="https://github.com/nanofaux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanofaux&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanofaux&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/nanofaux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanofaux" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanofaux&theme=tokyonight" />
 </a>
 
 ---
 
 <a href="https://wakatime.com/@nanofaux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nanofaux&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nanofaux&layout=compact&theme=tokyonight" />
 </a>
