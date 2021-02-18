@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanofaux&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/nanofaux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanofaux&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanofaux" />
 </a>
 
 ---
