@@ -12,8 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanofaux&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/nanofaux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanofaux&
-  hide_border=true&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanofaux&hide_border=true&layout=compact&theme=tokyonight" />
 </a>
 
 ---
