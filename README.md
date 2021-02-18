@@ -4,6 +4,7 @@
 - I mostly code in python, but I do wanna explore different languages.
 - I was bored so I made a readme for myself cuz why not.
 - I also code in Java it's just I've done nothing with it regarding VSC (proof in Wakatime stats ig lol)
+- I wsh the other stuff I "coded" in had a language color D:
 
 ---
 
