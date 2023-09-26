@@ -1,12 +1,11 @@
 ### Hi, I'm Nanofaux
 
 - I really don't know what else to put here.
-- I mostly code in python, but I do wanna explore different languages.
+- I mostly code in python, Java, and JavaScript, but learning C and C++.
 - I was bored so I made a readme for myself cuz why not.
 - My GitHub page is lame enough, I know.
-- I also code in Java it's just I've done nothing with it regarding VSC (proof in Wakatime stats ig lol)
-- I wsh the other stuff I "coded" in had a language color D:
-- if you are viewing my GitHub in light mode A) you should feel bad about yourself and B) im sorry my profile looks ugly with the black blobs right below this text 8)
+- I wish the other stuff I "coded" in had a language color D:
+- if you are viewing my GitHub in light mode A) you should feel bad about yourself and B) im sorry my profile looks ugly with the black blobs right below this text :(
 - I just realized my language stats only include public repos, not private ;(
 
 ---
