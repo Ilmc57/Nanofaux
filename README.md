@@ -1,12 +1,9 @@
 ### Hi, I'm Nanofaux
 
-- I really don't know what else to put here.
-- I mostly code in python, Java, and JavaScript, but learning C and C++.
-- I was bored so I made a readme for myself cuz why not.
-- My GitHub page is lame enough, I know.
-- I wish the other stuff I "coded" in had a language color D:
-- if you are viewing my GitHub in light mode A) you should feel bad about yourself and B) im sorry my profile looks ugly with the black blobs right below this text :(
-- I just realized my language stats only include public repos, not private ;(
+- Proficient in Python, Java, JavaScript, and learning C and C++.
+- Currently studying Computer Science in Boston, MA.
+- Most of my projects have some sort of integration between UI/UX, cloud-computing services, and database integration.
+- Most of my projects are commissioned for personal use for private clients, hence why they are privated here. 
 
 ---
 
