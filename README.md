@@ -2,6 +2,7 @@
 
 - Proficient in Python, Java, JavaScript, and learning C and C++.
 - Currently studying Computer Science in Boston, MA.
+- Interested in anyhing realted to Software Engineering, Web Applications, and Machine Learning.
 - Most of my projects have some sort of integration between UI/UX, cloud-computing services, and database integration.
 - Most of my projects are commissioned for personal use for private clients, hence why they are privated here. 
 
