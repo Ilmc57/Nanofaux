@@ -7,11 +7,11 @@
 
 ---
 
-<a href="https://github.com/hp-bs-software">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hp-bs-software&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<a href="https://github.com/hunter-neu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-neu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/hp-bs-software">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hp-bs-software&hide_border=true&layout=compact&theme=tokyonight" />
+<a href="https://github.com/hunter-neu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter-neu&hide_border=true&layout=compact&theme=tokyonight" />
 </a>
 
 ---
