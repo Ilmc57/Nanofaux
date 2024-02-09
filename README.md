@@ -17,5 +17,5 @@
 ---
 
 <a href="https://wakatime.com/@nanofaux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hp-bs-software&layout=compact&hide_border=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nanofaux&layout=compact&hide_border=true&theme=tokyonight" />
 </a>
