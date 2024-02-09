@@ -1,4 +1,4 @@
-### Hi, I'm Nanofaux
+### Hi, I'm Hunter
 
 - Proficient in Python, Java, JavaScript, and learning C and C++.
 - Currently studying Computer Science in Boston, MA.
